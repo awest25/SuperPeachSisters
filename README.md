@@ -21,4 +21,5 @@ Super Peach Sisters is a 2D platformer game where Peach navigates various levels
 ## Getting Started
 1. Clone the repo: `git clone https://github.com/awest25/SuperPeachSisters.git`
 2. Navigate to directory: `cd SuperPeachSisters`
-3. Compile and run: *(Insert your specific instructions)*
+3. Compile and run.
+4. Use arrow keys to navigate Peach.
